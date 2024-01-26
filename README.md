@@ -1,12 +1,12 @@
 ## Binary Search
-- [Vanilla binary search](./binary_search/binary_search.py)
-- [Find the first true in a sorted boolean array](./binary_search/first_true.py)
-- [Find first element not smaller than target](./binary_search/first_not_smaller_than_target.py)
-- [Find first occurence of target](./binary_search/first_occurence.py)
-- [Square root esimation](./binary_search/estimate_square_root.py)
+- [Vanilla Binary Search](./binary_search/binary_search.py)
+- [Find the First True in a Sorted Boolean Array](./binary_search/first_true.py)
+- [Find First Element not Smaller than Target](./binary_search/first_not_smaller_than_target.py)
+- [Find First Occurence of Target](./binary_search/first_occurence.py)
+- [Square Root Esimation](./binary_search/estimate_square_root.py)
 
 ## Two Pointers
-- [Middle of linked list](./two_pointers/middle_of_linked_list.py) 
+- [Middle of Linked List](./two_pointers/middle_of_linked_list.py) 
 
 ## Depth First Search
 - [Tree Traveral](./depth_first_search/tree_traversal.py)
