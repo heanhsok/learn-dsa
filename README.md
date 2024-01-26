@@ -11,3 +11,6 @@
 ## Depth First Search
 - [Tree Traveral](./depth_first_search/tree_traversal.py)
 - [Tree Max Depth](./depth_first_search/max_depth.py)
+
+## Breath First Search
+- [Level Order Traversal](./breadth_first_search/level_order_traversal.py)
