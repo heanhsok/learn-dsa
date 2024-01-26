@@ -7,3 +7,6 @@
 
 ## Two Pointers
 - [Middle of linked list](./two_pointers/middle_of_linked_list.py) 
+
+## Depth First Search
+- [Tree Traveral](./depth_first_search/tree_traversal.py)
