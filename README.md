@@ -19,3 +19,6 @@
 - [Count Down](./recursion/count_down.py)
 - [Sum from 1 to n](./recursion/sum_1_to_n.py)
 - [Is Palindrome](./recursion/is_palindrome.py)
+
+## Object Oriented Programming
+- [Vending Machine](./oop/vending_machine.py)
