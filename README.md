@@ -7,6 +7,8 @@
 
 ## Two Pointers
 - [Middle of Linked List](./two_pointers/middle_of_linked_list.py) 
+- [Remove Duplicates](./two_pointers/remove_duplicates.py)
+- [Move Zeros](./two_pointers/move_zeros.py')
 
 ## Depth First Search
 - [Tree Traveral](./depth_first_search/tree_traversal.py)
