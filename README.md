@@ -23,5 +23,9 @@
 - [Sum from 1 to n](./recursion/sum_1_to_n.py)
 - [Is Palindrome](./recursion/is_palindrome.py)
 
+## Backtracking
+- [Ternary Tree Path](./backtracking/ternary_tree_path.py)
+- [Binary Tree Path](./backtracking/binary_tree_path.py)
+
 ## Object Oriented Programming
 - [Vending Machine](./oop/vending_machine.py)
