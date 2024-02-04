@@ -26,6 +26,7 @@
 ## Backtracking
 - [Ternary Tree Path](./backtracking/ternary_tree_path.py)
 - [Binary Tree Path](./backtracking/binary_tree_path.py)
+- [All N Letter Word](./backtracking/all_n_letter_words.py)
 
 ## Object Oriented Programming
 - [Vending Machine](./oop/vending_machine.py)
