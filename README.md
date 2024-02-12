@@ -31,3 +31,9 @@
 
 ## Object Oriented Programming
 - [Vending Machine](./oop/vending_machine.py)
+
+## Others
+- [Distinct Word Count in a Sentence](./others/distinct_word_count.py)
+- [Average World Length](./others/average_word_length.py)
+- [Count Substring](./others/count_substring.py)
+- [Balance List of Integers](./others/balance_list.py)
