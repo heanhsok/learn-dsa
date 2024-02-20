@@ -17,6 +17,8 @@
 
 ## Breath First Search
 - [Level Order Traversal](./breadth_first_search/level_order_traversal.py)
+- [Level Order Traveral Sublevel](./breadth_first_search/level_order_traversal_sublevel.py)
+- [Zigzag Level Order Traversal](./breadth_first_search/zigzag_level_order_traversal.py)
 
 ## Recursion
 - [Count Down](./recursion/count_down.py)
