@@ -19,6 +19,8 @@
 - [Level Order Traversal](./breadth_first_search/level_order_traversal.py)
 - [Level Order Traveral Sublevel](./breadth_first_search/level_order_traversal_sublevel.py)
 - [Zigzag Level Order Traversal](./breadth_first_search/zigzag_level_order_traversal.py)
+- [Binary Tree Right Side View](./breadth_first_search/right_side_view.py)
+- [Binary Tree Min Depth](./breadth_first_search/min_depth.py)
 
 ## Recursion
 - [Count Down](./recursion/count_down.py)
