@@ -41,3 +41,4 @@
 - [Average World Length](./others/average_word_length.py)
 - [Count Substring](./others/count_substring.py)
 - [Balance List of Integers](./others/balance_list.py)
+- [String Rewrite](./others/string_rewrite.py)
